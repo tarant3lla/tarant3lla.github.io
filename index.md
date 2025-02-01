@@ -3,6 +3,7 @@ title: Claudio Del Vecchio
 feature_text: 
 feature_image: "/assets/images/foto_fisarmonica.jpg"
 excerpt: "Site web de Claudio del Vecchio"
+asside: true
 ---
 
 Né à Matera le 30 août 1979, Claudio Del Vecchio étudie la musique depuis l'âge de 15 ans. 
