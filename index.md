@@ -1,8 +1,7 @@
 ---
 title: Claudio Del Vecchio
-feature_text: |
-  Né à Matera le 30 août 1979, Claudio Del Vecchio étudie la musique depuis l'âge de 15 ans. 
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_text: 
+feature_image: "/assets/images/foto_fisarmonica.jpg"
 excerpt: "Site web de Claudio del Vecchio"
 ---
 
