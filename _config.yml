@@ -118,12 +118,12 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
-  url: /
+#- title: Accueil
+#  url: /
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   instagram: https://www.instagram.com/claudio.del.vecchio
-  soundcloud: https://soundcloud.com/claudio-del-vecchio-1
+  #soundcloud: https://soundcloud.com/claudio-del-vecchio-1
   link: https://tarant3lla.com
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
